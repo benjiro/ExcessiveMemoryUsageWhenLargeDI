@@ -24,5 +24,6 @@ How to reproduce
 2. Hit http://localhost:5000/WeatherForecast multiple times
 3. Use something to observe the LOH (dotnet-counters/dotmemory)
 
-[logo]: ./images/dotnet-counters.PNG "dotnet-counters example"
-[logo]: ./images/dotmemory-visual.PNG "dotmemory visual example"
+![dotnet-counters](images/dotnet-counters.PNG)
+
+![dotmemory](images/dotmemory-visual.PNG)
